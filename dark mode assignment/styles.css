@@ -1,0 +1,25 @@
+.outer{
+  position: relative;
+  background-color: black;
+  width: 100px;
+  height: 50px;
+  border-radius: 45%;
+  border-style: inset;
+
+}
+.inner
+{
+  position: absolute;
+  background-color: white;
+  width: 20px;
+  height: 30px;
+margin: 10px 4px;
+  border-radius:60%;
+}
+.black
+{
+  background-color: black
+}
+.white{
+  background-color: white;
+}
